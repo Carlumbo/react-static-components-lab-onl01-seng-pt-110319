@@ -16,4 +16,4 @@ class MouseComponent extends Component {
 }
 
 
-export default 
+export default MouseComponent;
