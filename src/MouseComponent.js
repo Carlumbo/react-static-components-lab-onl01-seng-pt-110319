@@ -14,3 +14,6 @@ class MouseComponent extends Component {
     )
   }
 }
+
+
+export default 
